@@ -5,24 +5,24 @@
 #API
 
 ## 最新FFmpeg下载链接：
-https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux-amd64@master/dist/ffmpeg-linux-amd64.7z
+https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/dist/ffmpeg-linux64-master.7z
 
 ## 某个版本的下载链接
 通过下面的API接口获取历史版本号，比如 `4.3.1`，下载链接：
 
-https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux-amd64@4.3.1/dist/ffmpeg-linux-amd64.7z.7z
+https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@4.3.1/dist/ffmpeg-linux64-master.7z
 
 ## 原网站API：
-版本号（需要提取）：https://johnvansickle.com/ffmpeg/release-readme.txt
+版本号（需要提取）：https://johnvansickle.com/ffmpeg/git-readme.txt
 
-下载链接：https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
+下载链接：https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz
 
 ## 本搬运仓库API：
-版本号：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux-amd64@master/version
+版本号：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/version
 
-下载链接（ `/n` 分割）：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux-amd64@master/download_link
+下载链接（ `/n` 分割）：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/download_link
 
-API接口 Json格式：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux-amd64@master/api.json
+API接口 Json格式：https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/api.json
 
 | API          | 类型     | 含义                                          |
 | ------------ | -------- | --------------------------------------------- |
