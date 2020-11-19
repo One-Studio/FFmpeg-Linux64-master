@@ -2,7 +2,7 @@ name: release CI
 
 on:
   # Push激活，去掉#开启
-  #push:
+  push:
   # 定时激活
   #schedule:
   #  - cron:  '30 * * * *'
