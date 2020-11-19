@@ -1,39 +1,37 @@
 {
-  "TargetOwner": "",
-  "TargetRepo": "",
-  "TargetGH": false,
-  "TargetAPI": "https://johnvansickle.com/ffmpeg/git-readme.txt",
-  "TargetDLink": "https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz",
-  "ArchiverOwner": "One-Studio",
-  "ArchiverRepo": "FFmpeg-Linux64-master",
-  "ArchiverGH": true,
-  "ArchiverAPI": "",
-  "ArchiverVersion": "v1.2.0 custom-ffmpeg-linux",
-  "Version": "a1553b0cfbff92223caaed4103b92373b2339173",
-  "VersionList": [
-    "a1553b0cfbff92223caaed4103b92373b2339173"
-  ],
-  "CheckTime": "2020-11-19T02:21Z",
-  "Format": 1,
-  "CompRatio": 3,
-  "DistPath": "dist",
-  "Filter": [
-    ".zip",
-    ".exe"
-  ],
-  "DeleteFilter": [
-    {
-      "Index": "ffmpeg",
-      "List": [
-        "ffprobe",
-        "manpages"
-      ]
-    }
-  ],
-  "RenameFilter": [
-    {
-      "Index": "ffmpeg",
-      "Name": "ffmpeg-linux64-master.7z"
-    }
-  ]
-}
+	"TargetOwner": "",
+	"TargetRepo": "",
+	"TargetGH": false,
+	"TargetAPI": "https://johnvansickle.com/ffmpeg/git-readme.txt",
+	"TargetDLink": "https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz",
+	"ArchiverOwner": "One-Studio",
+	"ArchiverRepo": "FFmpeg-Linux64-master",
+	"ArchiverGH": true,
+	"ArchiverAPI": "",
+	"ArchiverVersion": "v1.2.0 custom-ffmpeg-linux",
+	"Version": "",
+	"VersionList": [],
+	"CheckTime": "",
+	"Format": 1,
+	"CompRatio": 3,
+	"DistPath": "dist",
+	"Filter": [
+	  ".zip",
+	  ".exe"
+	],
+	"DeleteFilter": [
+	  {
+		"Index": "ffmpeg",
+		"List": [
+		  "ffprobe",
+		  "manpages"
+		]
+	  }
+	],
+	"RenameFilter": [
+	  {
+		"Index": "ffmpeg",
+		"Name": "ffmpeg-linux64-master.7z"
+	  }
+	]
+  }

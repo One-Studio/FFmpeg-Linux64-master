@@ -1,13 +1,9 @@
 {
-  "Version": "a1553b0cfbff92223caaed4103b92373b2339173",
-  "VersionList": [
-    "a1553b0cfbff92223caaed4103b92373b2339173"
-  ],
+  "Version": "",
+  "VersionList": [],
   "ReleaseTime": "",
-  "CheckTime": "2020-11-19T02:21Z",
-  "DownloadLink": [
-    "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/dist/ffmpeg-linux64-master.7z"
-  ],
+  "CheckTime": "",
+  "DownloadLink": [],
   "Format": 1,
   "ReleaseNote": ""
 }
