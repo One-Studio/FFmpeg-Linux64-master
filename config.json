@@ -9,8 +9,9 @@
   "ArchiverGH": true,
   "ArchiverAPI": "",
   "ArchiverVersion": "v1.2.0 custom-ffmpeg-linux",
-  "Version": "20211117",
+  "Version": "20211123",
   "VersionList": [
+    "20211123",
     "20211117",
     "20211108",
     "20211029",
@@ -36,7 +37,7 @@
     "20201128",
     "20201104"
   ],
-  "CheckTime": "2021-11-19T02:22Z",
+  "CheckTime": "2021-11-25T02:23Z",
   "Format": 1,
   "CompRatio": 3,
   "DistPath": "dist",
