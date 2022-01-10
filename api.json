@@ -1,6 +1,7 @@
 {
-  "Version": "20211217",
+  "Version": "20220108",
   "VersionList": [
+    "20220108",
     "20211217",
     "20211209",
     "20211203",
@@ -31,7 +32,7 @@
     "20201104"
   ],
   "ReleaseTime": "",
-  "CheckTime": "2021-12-19T02:30Z",
+  "CheckTime": "2022-01-10T02:58Z",
   "DownloadLink": [
     "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/dist/ffmpeg-linux64-master.7z",
     "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Linux64-master@master/dist/ffmpeg-linux64-master.7z"
